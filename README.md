@@ -22,6 +22,7 @@ It allows admin to manage student data and students to view their results.
 * XAMPP
 
 ---
+## 📂 Project Structure
  ```
 student-result-system/
 │── admin/              # Admin panel files
