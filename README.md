@@ -22,18 +22,19 @@ It allows admin to manage student data and students to view their results.
 * XAMPP
 
 ---
-##📂 Project Structure
-*student-result-system/
-*│── admin/              # Admin panel files
-*│── css/                # Stylesheets
-*│── database/           # Database connection/config
-*│── index.php           # Homepage
+ ```
+student-result-system/
+│── admin/              # Admin panel files
+│── css/                # Stylesheets
+│── database/           # Database connection/config
+│── index.php           # Homepage
 │── main.php            # Main dashboard
 │── student_login.php   # Student login page
 │── student_result.php  # Result display
 │── std_result_1.php    # Result page 1
 │── std_result_2.php    # Result page 2
 │── logout.php          # Logout functionality
+ ```
 ---
 
 ## ⚙️ Setup (XAMPP)
